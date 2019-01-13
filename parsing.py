@@ -1,5 +1,5 @@
 import time
-from multiprocessing import Pool
+from multiprocessing import Pool, Queue
 
 import mysql.connector
 import requests
@@ -22,7 +22,7 @@ def test_DB(id, time):
 
 
 class Parsing:
-    __array = []
+    __array = Queue()
 
     def __init__(self):
         urls = []
@@ -34,8 +34,8 @@ class Parsing:
         for url in urls:
             self.parsing(url)
 
-        # with Pool(4) as first:
-        #     first.map(self.parsing, urls)
+        with Pool(4) as first:
+            first.map(self.parsing, urls)
         print(time.time() - start_time)
 
     def parsing(self, url):
@@ -47,7 +47,10 @@ class Parsing:
             label = self.__get_label(shop)
             url = self.__get_url(shop)
             image = self.__get_image(shop)
-            self.__array.append(s.Shop(name, discount, label, url, image))
+            item = s.Shop(name, discount, label, url, image)
+            # print(item)
+            self.__array.put(item)
+            # s.Shop(name, discount, label, url, image))
 
     def __get_image(self, shop):
         image = shop.find('div', class_='b-teaser__cover').find('img').get('src')
@@ -94,8 +97,8 @@ class Parsing:
         return max(new_pages)
 
     def print_array(self):
-        for i in self.__array:
-            print(i.__str__())
+        while self.__array.get() != 0:
+            print(self.__array.get())
 
 
 if __name__ == '__main__':

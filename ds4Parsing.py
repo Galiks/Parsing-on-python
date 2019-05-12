@@ -1,5 +1,5 @@
 import time
-from multiprocessing import Pool, Queue
+from multiprocessing import Pool, current_process
 
 import mysql.connector
 import requests
@@ -7,38 +7,44 @@ from bs4 import BeautifulSoup
 
 import shop as s
 import valueForParsing as v
+from parsingAbstractClass import Parsing
 
 
-def test_DB(id, time):
+def test_DB():
     cnx = mysql.connector.connect(user='root', password='admin',
-                                  host='127.0.0.1',
-                                  database='forPython')
-    mycursor = cnx.cursor()
-    mycursor.execute("")
-    myresult = mycursor.fetchall()
-    for x in myresult:
-        print(x)
+                                  host='localhost',
+                                  database='forpython',
+                                  auth_plugin='mysql_native_password')
+    print("Connection Successful!")
+    # mycursor = cnx.cursor()
+    # mycursor.execute("")
+    # myresult = mycursor.fetchall()
+    # for x in myresult:
+    #     print(x)
     cnx.close()
 
 
-class Parsing:
-    __array = Queue()
+class BS4Parsing(Parsing):
 
     def __init__(self):
+        pass
+
+    def parsing(self):
         urls = []
+        start_time = time.time()
         max_page = self.__max_page()
         for i in range(1, max_page + 1):
             urls.append(v.url_for_parsing_letyShops + str(i))
-        start_time = time.time()
-
-        for url in urls:
-            self.parsing(url)
-
-        with Pool(4) as first:
-            first.map(self.parsing, urls)
+        pool = Pool(processes=4)
+        result = pool.map(self.__parse_elements, urls)
+        print(len(result))
         print(time.time() - start_time)
+        for items in result:
+            self.print_array(items)
 
-    def parsing(self, url):
+    def __parse_elements(self, url):
+        print(current_process().name)
+        result = []
         soup = BeautifulSoup(self.__get_Html(url), 'lxml')
         shops = soup.find_all('div', class_='b-teaser')
         for shop in shops:
@@ -48,9 +54,8 @@ class Parsing:
             url = self.__get_url(shop)
             image = self.__get_image(shop)
             item = s.Shop(name, discount, label, url, image)
-            # print(item)
-            self.__array.put(item)
-            # s.Shop(name, discount, label, url, image))
+            result.append(item)
+        return result
 
     def __get_image(self, shop):
         image = shop.find('div', class_='b-teaser__cover').find('img').get('src')
@@ -61,9 +66,9 @@ class Parsing:
         return v.clear_url_letyShops + url
 
     def __get_label(self, shop):
-        label = shop.find('span', class_='b-shop-teaser__label ')
+        label = shop.find('span', class_='b-shop-teaser__label')
         if label is None:
-            label = shop.find('span', class_='b-shop-teaser__label--red').text.strip()
+            label = shop.find('span', class_='b-shop-teaser__label--red')
         else:
             label = label.text.strip()
         return label
@@ -96,11 +101,14 @@ class Parsing:
             new_pages.append(new_page)
         return max(new_pages)
 
-    def print_array(self):
-        while self.__array.get() != 0:
-            print(self.__array.get())
+    def print_array(self, array: []):
+        if len(array) > 0:
+            for item in array:
+                print(item.__str__())
+        else:
+            print("Пустой список")
 
 
 if __name__ == '__main__':
-    parsing = Parsing()
-    parsing.print_array()
+    parser = BS4Parsing()
+    parser.parsing()

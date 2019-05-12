@@ -62,7 +62,7 @@ class RequestsParsing(Parsing):
         try:
             return float(discount)
         except ValueError:
-            return "NaN"
+            return None
 
     def __get_label(self, item):
         return item["commission"]["max"]["unit"]

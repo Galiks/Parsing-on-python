@@ -5,6 +5,9 @@ class Shop:
     __url = ''
     __image = ''
 
+    def __init__(self):
+        pass
+
     def __init__(self, name, discount, label, url, image):
         self.__name = name
         self.__discount = discount

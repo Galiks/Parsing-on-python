@@ -61,7 +61,6 @@ class WebDriverParsing(Parsing):
             driver.close()
 
     def parse_elements(self, element):
-        print(current_process().name)
         name = self.__get_name(element)
         full_discount = self.__get_full_discount(element)
         discount = self.__get_discount(full_discount)

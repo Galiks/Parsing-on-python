@@ -1,0 +1,749 @@
+[05-12 17:57:10] p13876 {E:/Документы/PyCharmProject/Parsing-on-python/webDriverParsing.py:55} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 17:58:12] p5148 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 18:04:45] p17180 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 18:05:07] p12148 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 18:06:22] p16740 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 18:08:00] p17104 {56} ERROR - __init__() missing 1 required positional argument: 'id_'
+[05-12 18:08:36] p11036 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 18:16:25] p8732 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 18:23:47] p17392 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 18:50:21] p4312 {55} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 18:51:12] p4548 {55} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 19:03:33] p13348 {59} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
+[05-12 19:07:02] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/shopbqru">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:07:10] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/mimimikonvertru">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:07:16] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/sofasandstuff.com">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:07:22] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rcwilleycom">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:07:23] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/openblueinsurancecom">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:07:50] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pneumaticiit">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:11:56] p16844 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/agrosemfondru">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:07] p6348 {78} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:07] p6348 {86} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:07] p6348 {110} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:07] p6348 {118} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:56] p4792 {79} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:56] p4792 {87} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:56] p4792 {111} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:13:56] p4792 {119} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:21:39] p15248 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/limeroadcom">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:21:54] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:21:54] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:21:54] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:21:54] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:00] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:00] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:00] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:00] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:03] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:03] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:03] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:03] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:07] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:07] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:07] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:07] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:11] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:11] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:11] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:11] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:13] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:13] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:13] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:13] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:15] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:15] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:15] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:15] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:17] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:17] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:17] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:22:17] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:03] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/storgomua">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:19] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nikecombr">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:25] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/thatspersonalcom">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:32] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/setheproteinworkscom">...</a>
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:48] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:48] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:48] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:48] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:49] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:49] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:49] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:49] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:50] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:50] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:50] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:50] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:52] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:52] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:52] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:52] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:53] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:53] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:53] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:53] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:54] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:54] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:54] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:54] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:56] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:56] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:56] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:56] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:57] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:57] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:57] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:57] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:58] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:58] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:58] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:58] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:59] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:59] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:59] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:31:59] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:01] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:01] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:01] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:01] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:02] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:02] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:02] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:02] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:03] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:03] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:03] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:03] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:04] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:04] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:04] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:04] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:06] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:06] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:06] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:06] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:07] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:07] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:07] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:07] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:09] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:09] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:09] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:09] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:10] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:10] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:10] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:10] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:11] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:11] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:11] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:11] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:13] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:13] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:13] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:13] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:14] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:14] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:14] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:14] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:15] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:15] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:15] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:15] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:17] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:17] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:17] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:17] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:18] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:18] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:18] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:18] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:20] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:20] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:20] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:20] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:22] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:22] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:22] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:22] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:23] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:23] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:23] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:23] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:25] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:25] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:25] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:25] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:26] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:26] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:26] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:26] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:28] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:28] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:28] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:28] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:29] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:29] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:29] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:29] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:31] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:31] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:31] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:31] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:33] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:33] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:33] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:32:33] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+  (Session info: chrome=74.0.3729.131)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
+
+[05-12 19:38:12] p6884 {112} ERROR - 'NoneType' object has no attribute 'group'

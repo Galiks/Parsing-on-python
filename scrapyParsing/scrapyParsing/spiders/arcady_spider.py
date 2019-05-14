@@ -1,7 +1,26 @@
+import requests
 import scrapy
+from bs4 import BeautifulSoup
 from scrapy import Request
+from scrapy.crawler import CrawlerProcess
 
-from ..items import ScrapyparsingItem
+import valueForParsing as v
+
+
+class MaxPageSpider(scrapy.Spider):
+    name = 'maxpage'
+    address = "https://letyshops.com/shops?page=1"
+    last_page_of_site = []
+
+    def start_requests(self):
+        start_urls = [self.address]
+        for start_url in start_urls:
+            Request(url=start_url, callback=self.parse)
+
+    def parse(self, response):
+        last_page = response.xpath('//ul[@class="b-pagination js-pagination"]/li[5]/a/text()').extract()
+        self.last_page_of_site.append(last_page)
+        return last_page
 
 
 class ArcadySpider(scrapy.Spider):
@@ -16,7 +35,6 @@ class ArcadySpider(scrapy.Spider):
             yield Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        items = ScrapyparsingItem()
         shops = response.xpath('//a[@class="b-teaser__inner"]')
         for i, shop in enumerate(shops):
             name = self.get_name(shop, i)
@@ -53,7 +71,7 @@ class ArcadySpider(scrapy.Spider):
 
     def get_label(self, shop, i):
         index = i + 1
-        label = shop.xpath('//div[@class="b-teaser"]/a//span[@class="b-shop-teaser__label"]/text()')[-1].get()
+        label = shop.xpath('//div[@class="b-teaser"]/a//span[@class="b-shop-teaser__label "]/text()').get()
         if label is None:
             label = shop.xpath(
                 '//div[@class="b-teaser"]/a//span[@class="b-shop-teaser__label b-shop-teaser__label--red"]/text()')
@@ -64,3 +82,26 @@ class ArcadySpider(scrapy.Spider):
         index = i + 1
         image = shop.xpath('//div[' + index.__str__() + ']//div[@class="b-teaser__cover"]/img/@src').extract()
         return image
+
+    def __max_page(self):
+        soup = BeautifulSoup(self.__get_Html(v.letyShops), 'lxml')
+        new_pages = []
+        pages = soup.find_all('a', class_='b-pagination__link')
+        for page in pages:
+            new_page = int(page.get('data-page'))
+            new_pages.append(new_page)
+        return max(new_pages)
+
+    def __get_Html(self, url):
+        try:
+            r = requests.get(url)
+            return r.text
+        except ConnectionError as e:
+            print("Error")
+
+
+if __name__ == '__main__':
+    process = CrawlerProcess()
+    arcady = ArcadySpider()
+    process.crawl(arcady)
+    process.start()

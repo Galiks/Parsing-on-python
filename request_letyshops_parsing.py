@@ -25,6 +25,7 @@ class RequestsLetyShopsParsing(Parsing):
         for i in result:
             self.print_array(i)
 
+
     def get_response(self, i):
         url = "https://letyshops.com/shops"
         querystring = {"page": str(i)}

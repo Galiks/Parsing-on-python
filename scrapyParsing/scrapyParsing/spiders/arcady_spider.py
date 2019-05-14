@@ -10,7 +10,7 @@ class ArcadySpider(scrapy.Spider):
 
     def start_requests(self):
         start_urls = []
-        for i in range(1,31):
+        for i in range(1, 31):
             start_urls.append(self.address + i.__str__())
         for url in start_urls:
             yield Request(url=url, callback=self.parse)

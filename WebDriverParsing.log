@@ -1,749 +1,1035 @@
-[05-12 17:57:10] p13876 {E:/Документы/PyCharmProject/Parsing-on-python/webDriverParsing.py:55} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 17:58:12] p5148 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 18:04:45] p17180 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 18:05:07] p12148 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 18:06:22] p16740 {55} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 18:08:00] p17104 {56} ERROR - __init__() missing 1 required positional argument: 'id_'
-[05-12 18:08:36] p11036 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 18:16:25] p8732 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 18:23:47] p17392 {56} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 18:50:21] p4312 {55} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 18:51:12] p4548 {55} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 19:03:33] p13348 {59} ERROR - Can't pickle local object '_createenviron.<locals>.encodekey'
-[05-12 19:07:02] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/shopbqru">...</a>
+[05-13 21:00:31] p12932 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/donplafonru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:07:10] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/mimimikonvertru">...</a>
+[05-13 21:00:48] p12932 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/hawksheadcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:07:16] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/sofasandstuff.com">...</a>
+[05-13 21:00:59] p12932 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vilacom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:07:22] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rcwilleycom">...</a>
+[05-13 21:01:53] p16228 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/metisucom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:07:23] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/openblueinsurancecom">...</a>
+[05-13 21:02:08] p16228 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rebeccaminkoffcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:07:50] p12768 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pneumaticiit">...</a>
+[05-13 21:02:13] p16228 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vivocom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:11:56] p16844 {50} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/agrosemfondru">...</a>
+[05-13 21:02:17] p16228 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gocolorscoin">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:07] p6348 {78} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:03:09] p8680 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/metisucom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:07] p6348 {86} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:03:10] p8680 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/lottosportcomua">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:07] p6348 {110} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:03:12] p8680 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/swansonvitaminscom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:07] p6348 {118} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:03:19] p8680 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pepperfrycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:56] p4792 {79} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:03:33] p8680 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vntripvn">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:56] p4792 {87} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:03:44] p8680 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:56] p4792 {111} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:07:51] p2136 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/donplafonru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:13:56] p4792 {119} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:07:57] p2136 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/cosmedecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:21:39] p15248 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/limeroadcom">...</a>
+[05-13 21:08:15] p2136 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/onlywirecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:21:54] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:15:10] p2000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/spballradru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:21:54] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:15:13] p2000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/carcamru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:21:54] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:15:17] p2000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/cosmedecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:21:54] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:15:56] p2000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vegaoodk">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:00] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:16:58] p15856 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vilacom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:00] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:17:02] p15856 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vntripvn">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:00] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:17:11] p15856 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#" style="display: none;">...</a> is not clickable at point (0, 0). Other element would receive the click: <div class="header-top not-auth fixed" style="top: 0px;">...</div>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:00] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:17:54] p11040 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/navigatorshopru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:03] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:18:01] p11040 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/karabascom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:03] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:18:03] p11040 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/ldck.ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:03] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:18:12] p11040 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/effyjewelrycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:03] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:18:23] p11040 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/kamasutracom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:07] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:18:37] p11040 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:07] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:24:13] p16304 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/loccitaneru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:07] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:24:22] p16304 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/utake.ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:07] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:24:37] p16304 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gatineaucou">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:11] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:24:45] p16304 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rebuynl">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:11] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:24:46] p16304 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/jcwhitneycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:11] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:25:45] p11508 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/donplafonru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:11] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:25:47] p11508 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/allsoft">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:13] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:26:30] p11508 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:13] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:36:14] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/easyclicktravelcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:13] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:36:16] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/karicom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:13] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:36:25] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/sukkhicom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:15] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:36:29] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/josbankcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:15] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:36:35] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/hihonorcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:15] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:36:45] p15192 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rebuynl">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:15] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:36:53] p15192 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:17] p15248 {81} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:39:39] p16276 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/donplafonru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:17] p15248 {89} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:39:59] p16276 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/josbankcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:17] p15248 {113} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:40:04] p16276 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gatineaucou">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:22:17] p15248 {121} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:40:07] p16276 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/bedeckhomecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:03] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/storgomua">...</a>
+[05-13 21:40:58] p15872 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/meleonru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:19] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nikecombr">...</a>
+[05-13 21:42:35] p3000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/netshoesmx">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:25] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/thatspersonalcom">...</a>
+[05-13 21:42:51] p3000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/sukkhicom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:32] p6884 {51} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/setheproteinworkscom">...</a>
+[05-13 21:43:11] p3000 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/desperatesellercouk">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:48] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:52:03] p17572 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/ennergiiacom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:48] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:52:36] p17572 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/bedeckhomecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:48] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:52:50] p17572 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#" style="display: none;">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/taylorstitch.com">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:48] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:52:52] p17572 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#" style="display: none;">...</a> is not clickable at point (0, 0). Other element would receive the click: <div class="header-top not-auth fixed" style="top: 0px;">...</div>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:49] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:54:53] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nikostoreru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:49] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:54:56] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/yotaru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:49] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:55:02] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/metisucom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:49] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:55:10] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/hotwirecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:50] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:55:17] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/divvino.com.br">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:50] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:55:27] p1260 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gocolorscoin">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:50] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:08] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/allsoftroyalforestorg">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:50] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:20] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/luckyprintbiz">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:52] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:31] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/josbankcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:52] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:45] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/merkurmagices">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:52] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:49] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <span>...</span>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:52] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:49] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:53] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:53] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:53] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:53] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:54] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:54] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:54] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:54] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:56] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:56] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:56] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:56] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:57] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:57] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:57] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:57] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:58] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:58] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:58] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:58] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:59] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:59] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:59] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:31:59] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:50] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:01] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:51] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:01] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:51] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:01] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:56:51] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:01] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:56:51] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 30). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:02] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 21:56:51] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 36). Other element would receive the click: <input type="text" placeholder="Найти магазин с кэшбэком" id="searchInput" class="input" autocomplete="off">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:02] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 21:56:55] p11180 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <img src="https://cdn.megabonus.com/images/shop_logo/mandmdirect.png" alt="Кэшбэк в MandM Direct ">
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:02] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 21:57:33] p10200 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/anysportstv">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:02] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 21:57:46] p10200 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gatineaucou">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:03] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 22:00:13] p19360 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/ruscosmeticsr">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:03] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 22:00:21] p19360 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/dmmcojp">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:03] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 22:00:41] p19360 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vntripvn">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:03] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 22:01:39] p1400 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/luckyprintbiz">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:04] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 22:01:57] p1400 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vilacom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:04] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 22:02:09] p1400 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/flowercard">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:04] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 22:03:46] p18332 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/allsoftroyalforestorg">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:04] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 22:03:56] p18332 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/utake.ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:06] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 22:04:03] p18332 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/microsoftcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:06] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 22:04:11] p18332 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/hihonorcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:06] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 22:04:24] p18332 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/romanoriginalscouk">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:06] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 22:04:27] p18332 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:07] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 22:05:40] p16344 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/goseeru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:07] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 22:05:52] p16344 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/hotwirecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:07] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 22:06:00] p16344 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/mydreamstorein">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:07] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 22:06:20] p16344 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:09] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-13 22:08:37] p19368 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nord24ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:09] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-13 22:08:48] p19368 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/enterprisecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:09] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-13 22:09:03] p19368 {56} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/desperatesellercouk">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:09] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-13 22:09:09] p19368 {56} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:10] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:15:24] p9712 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/buymutantyearzerocom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:10] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:15:32] p9712 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/cosmedecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:10] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:15:53] p9712 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/papelnaparedecombr">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:10] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:16:13] p9712 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rebuynl">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:11] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:17:20] p13440 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/uchmetru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:11] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:17:42] p13440 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/shopreebokcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:11] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:17:51] p13440 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/wyoin">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:11] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:17:55] p13440 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/jcwhitneycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:13] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:22:37] p13980 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/carcamru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:13] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:23:11] p13980 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/rinkitcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:13] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:23:13] p13980 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/buddypetfoodscom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:13] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:24:10] p13576 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/spballradru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:14] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:24:22] p13576 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/shopandshowru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:14] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:24:30] p13576 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/divvino.com.br">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:14] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:24:37] p13576 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/gocolorscoin">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:14] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:24:49] p13576 {57} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:15] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:28:53] p13816 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/allsoftroyalforestorg">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:15] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:29:04] p13816 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/florium.ua">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:15] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:29:31] p13816 {57} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:15] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:30:37] p7480 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/luckyprintbiz">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:17] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:30:39] p7480 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nord24ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:17] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:30:46] p7480 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pepperfrycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:17] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:31:13] p7480 {57} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:17] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:33:01] p11560 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/blackstarshopru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:18] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:33:21] p11560 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pepperfrycom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:18] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:33:35] p11560 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/vntripvn">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:18] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:39:02] p7708 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/myslitskynailru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:18] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:39:20] p7708 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/divvino.com.br">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:20] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:39:24] p7708 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/lenskartcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:20] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:39:32] p7708 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/wevanscombr">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:20] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:39:41] p7708 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#" style="display: none;">...</a> is not clickable at point (643, 858). Other element would receive the click: <div class="container">...</div>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:20] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:40:18] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/netshoesmx">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:22] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:40:26] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pokuponby">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:22] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:40:28] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/utake.ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:22] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:40:41] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/enterprisecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:22] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:40:47] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/tassimoat">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:23] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:41:00] p5356 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/flowercard">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:23] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 10:41:02] p5356 {57} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:23] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 10:56:51] p4344 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/blackstarshopru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:23] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 10:57:19] p4344 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pokuponby">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:25] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 10:57:54] p4344 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/flowercard">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:25] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 11:00:49] p7984 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/blackstarshopru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:25] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 11:01:18] p7984 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/karicom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:25] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 11:01:30] p7984 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/microsoftcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:26] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 11:01:31] p7984 {57} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 858). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/josbankcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:26] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 11:01:56] p7984 {57} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:26] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 11:01:58] p14064 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14064 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14064 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p12044 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14064 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14064 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p12044 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14064 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14064 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p12044 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14064 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14064 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14064 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p12044 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p12044 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p12044 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p12044 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {91} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:58] p14164 {97} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:01:58] p14164 {121} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:01:58] p14164 {127} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:01:59] p14064 {115} ERROR - 'NoneType' object has no attribute 'group'
+[05-14 11:04:19] p4488 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/pokuponby">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:26] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 11:04:24] p4488 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/nord24ru">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:28] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 11:04:39] p4488 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/enterprisecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:28] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 11:05:04] p4488 {55} ERROR - Message: element not interactable
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:28] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13724 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13724 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13724 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13724 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p10812 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p10812 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p10812 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p1280 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p1280 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p1280 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13784 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:05:06] p13784 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:05:06] p13784 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:05:06] p13724 {111} ERROR - 'NoneType' object has no attribute 'group'
+[05-14 11:07:13] p13632 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/besthardr">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:28] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
+[05-14 11:07:15] p13632 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/easyclicktravelcom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:29] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
+[05-14 11:07:21] p13632 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/luckyprintbiz">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:29] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
+[05-14 11:07:44] p13632 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#">...</a> is not clickable at point (643, 841). Other element would receive the click: <a class="holder-link pr-shop-card" href="/shop/bedeckhomecom">...</a>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:29] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
+[05-14 11:08:03] p13632 {55} ERROR - Message: element click intercepted: Element <a class="see-more" href="#" style="display: none;">...</a> is not clickable at point (172, 30). Other element would receive the click: <span class="logo_img ru"></span>
   (Session info: chrome=74.0.3729.131)
   (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
 
-[05-12 19:32:29] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:31] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:31] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:31] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:31] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:33] p6884 {82} ERROR - Message: no such element: Unable to locate element: {"method":"class name","selector":"holder-more"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:33] p6884 {90} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.your-percentage > strong"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:33] p6884 {121} ERROR - Message: no such element: Unable to locate element: {"method":"tag name","selector":"img"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:32:33] p6884 {129} ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.holder-img > a"}
-  (Session info: chrome=74.0.3729.131)
-  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17134 x86_64)
-
-[05-12 19:38:12] p6884 {112} ERROR - 'NoneType' object has no attribute 'group'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p5288 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p5288 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p5288 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p5288 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p5288 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p5288 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p5288 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p5288 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p5288 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p5288 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p5288 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p5288 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p8172 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p8172 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p8172 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p6800 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p6800 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p6800 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {87} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:06] p9156 {93} ERROR - 'NoneType' object has no attribute 'text'
+[05-14 11:08:06] p9156 {117} ERROR - 'NoneType' object has no attribute 'get'
+[05-14 11:08:06] p9156 {123} ERROR - 'NoneType' object has no attribute 'find'
+[05-14 11:08:07] p5288 {111} ERROR - 'NoneType' object has no attribute 'group'

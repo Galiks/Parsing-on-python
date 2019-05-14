@@ -1,19 +1,23 @@
-import re
-import time
-from multiprocessing import current_process, Process
-from multiprocessing.pool import Pool
 import logging
-from telnetlib import EC
-from threading import Thread
+import re
+import sys
+import time
+from distutils.file_util import copy_file
+from multiprocessing import current_process
+from multiprocessing.pool import Pool
 
+from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.remote.webelement import WebElement
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
 
 from parsingAbstractClass import Parsing
 from shop import Shop
 
+
+class Copier(object):
+    def __init__(self, tgtdir):
+        self.target_dir = tgtdir
+    def __call__(self, src):
+        copy_file(src, self.target_dir)
 
 class WebDriverParsing(Parsing):
     logger = logging.getLogger("WebDriverParsing")
@@ -35,7 +39,7 @@ class WebDriverParsing(Parsing):
         pass
 
     def parsing(self):
-        result = []
+        start_time = time.time()
         global driver
         try:
             driver = webdriver.Chrome(
@@ -49,47 +53,46 @@ class WebDriverParsing(Parsing):
                     button = driver.find_element_by_class_name("see-more")
                 except Exception as e:
                     self.logger.error(e)
-            ul = driver.find_element_by_class_name("cacheback-block-list")
-            WebDriverWait(driver, 5)
-            web_elements = ul.find_elements_by_tag_name("li")
-            for element in web_elements:
-                result.append(self.parse_elements(element))
-            # pool = Pool(processes=4)
-            # result = pool.map(self.parse_elements, web_elements)
+            ul = driver.find_element_by_class_name("cacheback-block-list").get_attribute("outerHTML")
+            soup = BeautifulSoup(ul, 'lxml')
+            shops_str = []
+            shops = soup.find_all("li")
+            for shop in shops:
+                shops_str.append(shop.__str__())
+            pool = Pool(processes=4)
+            result = pool.map(func=self.parse_elements, iterable=shops_str)
+            print(time.time() - start_time)
             self.__print_array(result)
         finally:
             driver.close()
 
     def parse_elements(self, element):
-        name = self.__get_name(element)
-        full_discount = self.__get_full_discount(element)
-        discount = self.__get_discount(full_discount)
-        label = self.__get_label(full_discount)
-        image = self.__get_image(element)
-        url = self.__get_url(element)
+        soup = BeautifulSoup(element, 'lxml')
+        name = self.get_name(soup)
+        full_discount = self.get_full_discount(soup)
+        discount = self.get_discount(full_discount)
+        label = self.get_label(full_discount)
+        image = self.get_image(soup)
+        url = self.get_url(soup)
         if name is not None and discount is not None and label is not None and image is not None and url is not None:
             return Shop(name=name, discount=discount, label=label, image=image, url=url)
 
-    def __get_name(self, element):
+    def get_name(self, element):
         pattern_for_name = "Подробнее про кэшбэк в ([\\w\\s\\d\\W]+)"
         try:
-            name = element.find_element_by_class_name("holder-more").find_element_by_tag_name("a").get_attribute("innerHTML")
-            name = re.search(pattern_for_name, name)
-            name = name.group(1)
-            return name
+            name = element.find('div', class_='holder-more').find('a').text.strip()
+            name_search = re.search(pattern_for_name, name)
+            return name_search.group(1)
         except Exception as e:
             self.logger.error(e)
-            return None
 
-    def __get_full_discount(self, element):
+    def get_full_discount(self, element):
         try:
-            full_discount = element.find_element_by_css_selector("div.your-percentage > strong").text
-            return full_discount
+            return element.find('div', class_='percent_cashback').text.strip()
         except Exception as e:
             self.logger.error(e)
-            return None
 
-    def __get_discount(self, full_discount):
+    def get_discount(self, full_discount):
         pattern_for_discount = "\\d+[.|,]*\\d*"
         if full_discount is not None:
             try:
@@ -97,43 +100,33 @@ class WebDriverParsing(Parsing):
                 return float(discount.group(0))
             except Exception as e:
                 self.logger.error(e)
-        else:
-            return None
 
-    def __get_label(self, full_discount):
+    def get_label(self, full_discount):
         pattern_for_label = "[$%€]|руб|(р.)|cent|р|Р|RUB|USD|EUR|SEK|UAH|INR|BRL|GBP|CHF|PLN"
         if full_discount is not None:
             try:
-                label = re.search(pattern_for_label, full_discount)
-                label = label.group(0)
-                return label
+                label_search = re.search(pattern_for_label, full_discount)
+                return label_search.group(0)
             except Exception as e:
                 self.logger.error(e)
-        else:
-            return None
 
-    def __get_image(self, element):
+    def get_image(self, element):
         try:
-            image = element.find_element_by_tag_name("img").get_attribute("src")
-            return image
+            return element.find('img').get('src')
         except Exception as e:
             self.logger.error(e)
-            return None
 
-    def __get_url(self, element):
+    def get_url(self, element):
         try:
-            page = element.find_element_by_css_selector("div.holder-img > a").get_attribute("href")
-            return page
+            return element.find('div', class_='holder-img').find('a').get('href')
         except Exception as e:
             self.logger.error(e)
-            return None
 
     def __print_array(self, array: []):
         for item in array:
             print(item.__str__())
 
+
 if __name__ == '__main__':
     webDriverParsing = WebDriverParsing()
-    start_time = time.time()
     webDriverParsing.parsing()
-    print(time.time() - start_time)

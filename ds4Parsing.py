@@ -36,14 +36,13 @@ class BS4Parsing(Parsing):
         for i in range(1, max_page + 1):
             urls.append(v.url_for_parsing_letyShops + str(i))
         pool = Pool(processes=4)
-        result = pool.map(self.__parse_elements, urls)
+        result = pool.map(self.parse_elements, urls)
         print(len(result))
         print(time.time() - start_time)
         for items in result:
             self.print_array(items)
 
-    def __parse_elements(self, url):
-        print(current_process().name)
+    def parse_elements(self, url):
         result = []
         soup = BeautifulSoup(self.__get_Html(url), 'lxml')
         shops = soup.find_all('div', class_='b-teaser')
